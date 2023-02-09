@@ -29,7 +29,7 @@ class Program
         }
         
 
-        Console.WriteLine("The first" + " " + 25.ToString() + " " +
+        Console.WriteLine("The first" + " " + 25 + " " +
 "Fibonacci numbers are: ");
 
        
